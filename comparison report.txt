@@ -1,0 +1,10 @@
+TF IDF:
+    - Naive Bayes --> accuracy : 0.8
+    - Neural Network --> accuracy : 0.5
+
+Sentence embeddings:
+    - Sum of document words embeddings, and logistic regression --> accuracy : 0.7975
+    - Average of document words embeddings, and logistic regression --> accuracy : 0.7025
+
+Doc2Vec:
+    - Logistic regression --> accuracy : 0.8125
